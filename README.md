@@ -14,7 +14,6 @@ OpenWeatherMap API → Extract → Transform → Load (SQLite) → Streamlit Das
 - Persistent storage in a SQLite database
 - Interactive dashboard with Streamlit and Plotly
 - Containerized with Docker
-- Deployed in production on Railway
 
 ## 🛠️ Tech Stack
 
